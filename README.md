@@ -1,6 +1,7 @@
 ## Hei 👋
 
-#du kan finne meg på:
+du kan finne meg på:
+<br>
 [LinkedIn](https://www.linkedin.com/in/jan-olav-berg-a90734b3/)
 
 <!--
@@ -13,7 +14,9 @@ Here are some ideas to get you started:
 add link: 
     url turns into links
     (html didn't work)
-    
+        <a href="https://github.com/Martialcart?tab=repositories" target="_blank">Martialcart</a>
+linebreak:
+    # didn't work   
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
