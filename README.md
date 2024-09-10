@@ -1,6 +1,6 @@
 ## Hei 👋
 
-du kan finne meg på:
+#du kan finne meg på:
 [LinkedIn](https://www.linkedin.com/in/jan-olav-berg-a90734b3/)
 
 <!--
