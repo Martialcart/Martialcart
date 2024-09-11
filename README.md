@@ -8,7 +8,7 @@ du kan finne meg på:
 <br>
 [facebook](https://www.facebook.com/jan.o.berg.5)
 <br>
-[hjemmeside](https://www.janolavberg.no)facebook.com/jan.o.ber://www.facebook.com/jan.o.berg.5://www.facebook.com/jan.o.berg.5
+[hjemmeside](https://www.janolavberg.no)
 
 <!--
 **Martialcart/Martialcart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
