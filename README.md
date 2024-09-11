@@ -1,5 +1,19 @@
 ## Hei 👋
 
+<p>
+JEg har bachelor i datateknologi fra universitet i bergen.
+lærte fleste grunnprinsipper gjennom Java, som datastructurerer, algoritmer
+prinsipper som OOP og TDD.
+Python for maskinkølæring(ai) 
+c++ for paralell programmering.
+haskell for funskjonell programmering
+mySQL for databaser viklet inn med en dråpe php.
+på egenhånd har jeg lært litt frontend HTML, CSS, Javascript
+ved å lage websider som hjemmesiden min
+
+
+
+p>
 du kan finne meg på:
 <br>
 [LinkedIn](https://www.linkedin.com/in/jan-olav-berg-a90734b3/)
