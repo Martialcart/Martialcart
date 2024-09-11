@@ -6,9 +6,9 @@ du kan finne meg på:
 <br>
 [Thingiverse - 3d modelering](https://www.thingiverse.com/martialcart/designs)
 <br>
-[facebook](https://www.facebook.com/jan.o.berg.5)
+[Facebook](https://www.facebook.com/jan.o.berg.5)
 <br>
-[hjemmeside](https://www.janolavberg.no)
+[Hjemmeside](https://www.janolavberg.no)
 
 <!--
 **Martialcart/Martialcart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
