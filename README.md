@@ -35,6 +35,7 @@ add link:
     url turns into links
         (html didn't work)
             <a href="https://github.com/Martialcart?tab=repositories" target="_blank">Martialcart</a>
+    [nameCustom](url)
 linebreak:
     <br> works
     (# didn't work) 
