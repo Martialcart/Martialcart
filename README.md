@@ -14,7 +14,6 @@ ved å lage websider som hjemmesiden min linket til under
 
 du kan finne meg på:
 
-<br>
 [LinkedIn](https://www.linkedin.com/in/jan-olav-berg-a90734b3/)
 <br>
 [Thingiverse - 3d modelering](https://www.thingiverse.com/martialcart/designs)
