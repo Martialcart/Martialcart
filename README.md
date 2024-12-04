@@ -12,8 +12,6 @@ på egenhånd har jeg blant annet lært litt frontend (HTML, CSS, Javascript)
 ved å lage websider som hjemmesiden min linket til under
 </p>
 
-<iframe src="[https://www.w3schools.com](https://docs.google.com/document/d/1pfxN97oFV-BRIfLMRd1jojw4EG2-2pVJr3CPdyCB1Aw/edit?tab=t.0)" title="Om meg"></iframe>
-
 du kan finne meg på:
 
 <br>
