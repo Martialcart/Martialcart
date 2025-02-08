@@ -13,6 +13,8 @@ På fritiden interesserer jeg meg for 3D-printing, musikk og dataspill.
 
 du kan finne meg på📫:
 
+<a href='(https://www.linkedin.com/in/jan-olav-berg-a90734b3/'>LinkedIn</a>
+
 [LinkedIn](https://www.linkedin.com/in/jan-olav-berg-a90734b3/)
 <br>
 [Thingiverse - 3d modelering](https://www.thingiverse.com/martialcart/designs)
