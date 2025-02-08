@@ -1,18 +1,17 @@
-## Hei 👋
+<h1>Hei👋</h1> 
 
-<p>
-Jeg har en bachelor i datateknologi fra universitet i bergen.
-lærte datastructurerer, algoritmer og grinsipper som OOP og TDD gjennom Java.
-Fikk en introduksjon til maskinlæring via Python.
-c++ for paralell programmering.
-haskell for funskjonell programmerin.
-mySQL med en dråpe php for en innsikt i databaser.
-Fikk også innsikt i hvordan kompilatorer fungerer
-på egenhånd har jeg blant annet lært litt frontend (HTML, CSS, Javascript)
-ved å lage websider som hjemmesiden min linket til under
-</p>
+Mitt navn er Jan Olav,
+<br>
+en utvikler med fullført bachelor i programmering fra UiB.
+<br>
+I løpet av studiet var Java hovedspråk, men fikk også erfaring med assembly og maskinlæring i Python.
+Etter fullført bachelor har jeg fokusert på webutvikling, med utspring i flere prosjekter på Github som, chat-bot og et touch-typing program.
+<br>
+I tillegg har jeg 16 års erfaring fra kundeservice, noe som har gitt meg verdifull erfaring innenfor samarbeid og ledelse.
+På fritiden interesserer jeg meg for 3D-printing, musikk og dataspill.
 
-du kan finne meg på:
+
+du kan finne meg på📫:
 
 [LinkedIn](https://www.linkedin.com/in/jan-olav-berg-a90734b3/)
 <br>
